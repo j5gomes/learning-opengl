@@ -1,0 +1,3 @@
+/Users/joaogomes/repos/github.com/joaogomesdev/learning-opengl/build/CMakeFiles/hello_window.dir
+/Users/joaogomes/repos/github.com/joaogomesdev/learning-opengl/build/CMakeFiles/edit_cache.dir
+/Users/joaogomes/repos/github.com/joaogomesdev/learning-opengl/build/CMakeFiles/rebuild_cache.dir
